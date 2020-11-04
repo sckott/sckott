@@ -1,5 +1,4 @@
 ### Hi, I'm Scott 👋 
----
 
 - I co-founded rOpenSci (https://ropensci.org/); we make open source software tools for researchers
 - [website](https://scottchamberlain.info)
