@@ -1,6 +1,5 @@
 ### Hi, I'm Scott 👋 
 
-Bio: 
 - I co-founded rOpenSci (https://ropensci.org/); we make open source software tools for researchers
 - I'm a software engineer
 - [website](https://scottchamberlain.info)
