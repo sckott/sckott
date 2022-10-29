@@ -1,6 +1,6 @@
 ### Hi, I'm Scott 👋 
 
-- Currently a software engineer with https://ourresearch.org/
+- Product owner and software engineer with https://ourresearch.org/
 - [website](https://scottchamberlain.info)
 - [blog](https://recology.info/)
 - mastodon - [@sckottie@scholar.social](https://scholar.social/@sckottie)
