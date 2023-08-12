@@ -1,5 +1,7 @@
 ### Hi, I'm Scott 👋 
 
+**I'M LOOKING FOR WORK - SOFTWARE OR DATA ENGINEER ROLES - EMAIL ME!**
+
 - Senior Data Engineer at [Deck](https://www.deck.tools/)
 - [website](https://scottchamberlain.info)
 - [blog](https://recology.info/)
