@@ -2,6 +2,7 @@
 
 **I'M LOOKING FOR WORK SHORT-TERM OR FULL-TIME - SOFTWARE OR DATA ENGINEER ROLES - EMAIL ME!**
 
+- [LinkedIn](https://www.linkedin.com/in/scott-a-chamberlain/)
 - [website](https://scottchamberlain.info)
 - [blog](https://recology.info/)
 <!--- - mastodon - [@sckottie@fosstodon.org](https://fosstodon.org/@sckottie) -->
