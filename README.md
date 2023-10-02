@@ -1,5 +1,7 @@
 ### Hi, I'm Scott 👋 
 
+I'm a software engineer at Fred Hutch in the [Fred Hutch Data Science Lab](https://hutchdatascience.org/)
+
 - [LinkedIn](https://www.linkedin.com/in/scott-a-chamberlain/)
 - [website](https://scottchamberlain.info)
 - [blog](https://recology.info/)
