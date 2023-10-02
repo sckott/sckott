@@ -3,7 +3,7 @@
 - [LinkedIn](https://www.linkedin.com/in/scott-a-chamberlain/)
 - [website](https://scottchamberlain.info)
 - [blog](https://recology.info/)
-<!--- - mastodon - [@sckottie@fosstodon.org](https://fosstodon.org/@sckottie) -->
+- mastodon - [@sckottie@fosstodon.org](https://fosstodon.org/@sckottie)
 - 🐝 &nbsp; Fun fact: ~90% of bee species are solitary (not social)
 
 ### skills
