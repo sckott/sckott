@@ -6,6 +6,7 @@ I'm a software engineer at Fred Hutch in the [Fred Hutch Data Science Lab](https
 - [website](https://scottchamberlain.info)
 - [blog](https://recology.info/)
 - mastodon - [@sckottie@fosstodon.org](https://fosstodon.org/@sckottie)
+- blueskey - [sckott](https://bsky.app/profile/sckott.bsky.social)
 - 🐝 &nbsp; Fun fact: ~90% of bee species are solitary (not social)
 
 ### skills
