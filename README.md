@@ -14,4 +14,4 @@ I'm a software engineer at Fred Hutch in the [Fred Hutch Data Science Lab](https
 <img align="left" alt="r" src="https://img.shields.io/badge/r-%2314354C.svg?style=for-the-badge&logo=r&logoColor=white" />
 <img align="left" alt="ruby" src="https://img.shields.io/badge/ruby-%2314354C.svg?style=for-the-badge&logo=ruby&logoColor=white" />
 
-<a rel="me" href="https://fosstodon.org/@sckottie">&nbsp;</a>
+<a rel="me" href="https://hachyderm.io/@sckottie">&nbsp;</a>
